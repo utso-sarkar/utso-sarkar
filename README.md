@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Infosec Consultant | Founder & CEO, Venusec | Author</h3>
+<h3 align="center">AI, Robotics & IoT Researcher | Python Programmer | IoT Security </h3>
 
 ###
 
